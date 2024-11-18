@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_ic_more_vert_24.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/ic_more_vert_24.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_thumbnail_indian_food.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/thumbnail_indian_food.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_unselected_dot.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/unselected_dot.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_indian_food.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/indian_food.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.app.carousel.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_thumbnail_shoe.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/thumbnail_shoe.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_selected_dot.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/selected_dot.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_shoe.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/shoe.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/layout_carousel_analysis_bottom_sheet.xml.flat",
+        "source": "com.app.carousel.app-main-39:/layout/carousel_analysis_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_thumbnail_sports.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/thumbnail_sports.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_country.jpg.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/country.jpg"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.app.carousel.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_thumbnail_plant.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/thumbnail_plant.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_search_text_background.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/search_text_background.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.app.carousel.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_dot_indicator_selector.xml.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/dot_indicator_selector.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_sports.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/sports.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/layout_carousel_image_item.xml.flat",
+        "source": "com.app.carousel.app-main-39:/layout/carousel_image_item.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_thumbnail_country.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/thumbnail_country.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/drawable_plant.webp.flat",
+        "source": "com.app.carousel.app-main-39:/drawable/plant.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/layout_carousel_list_item.xml.flat",
+        "source": "com.app.carousel.app-main-39:/layout/carousel_list_item.xml"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.carousel.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.app.carousel.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
